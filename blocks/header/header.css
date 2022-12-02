@@ -191,7 +191,8 @@ header nav[aria-expanded='true'] .nav-tools li {
   }
 
   header nav .nav-brand {
-    flex: 0 0 150px;
+    color: #fa0f00;
+    padding: 0 20px;
   }
 
   header nav .nav-sections ul {
